@@ -1,5 +1,5 @@
-# Thesis-
 #Explainable Machine Learning for Urban Mobility Demand Prediction: A Big Data Analytics Approach
+
 #All steps were implemented in a single Python notebook using pandas, NumPy, scikit-learn, XGBoost, SHAP, matplotlib and Joblib (Section 3.8). The notebook runs end-to-end in Google Colab in approximately 10–15 minutes on a standard CPU runtime and uses less than 2 GB of memory.
 
 A.1 Source data. Citi Bike trip-history file for June 2013, obtained through Kaggle (Kaggle, n.d.); 577,703 trip records; original 2013 field names, standardised to the later naming convention in the notebook; underlying operational source: Citi Bike system data (Citi Bike, n.d.). The raw file was stored unchanged, and the cleaned and model-ready datasets were saved as separate files.
